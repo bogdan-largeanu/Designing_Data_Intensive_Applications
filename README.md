@@ -1,5 +1,5 @@
 # Designing_Data_Intensive_Applications
-Summary for Book Data Intensive Applications
+Summary for Book Data Intensive Applications  
 ![Book Cover Data Intensive](./book-cover.jpg "Book Cover")
 
 1. Part 1: The fundamental ideas that underpin the design of data-intesive applications.
