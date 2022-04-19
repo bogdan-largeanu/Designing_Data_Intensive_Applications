@@ -8,6 +8,7 @@ Summary for Book Data Intensive Applications
             - Simple Definition: Continue to work correctly, even when things go wrong.  
             - Things that can go wrong are faults. System anticipating faults are fault-tolerant or resilient.
             - Fault is not the same as a failure. Fault is deviating from the spec of the system.
+            - Errors come from. Hardware Errors, Software Errors, Human Errors. One study found configuration errors by operators to be the leading cause of outages, where hardware faults (servers or network) 
     - Chapter 2
     - Chapter 3 
     - Chapter 4
